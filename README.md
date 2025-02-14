@@ -1,2 +1,2 @@
 # siddharth-sharma
-Practice Account fpr learning Git
+Practice Account for learning Git
