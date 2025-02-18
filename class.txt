@@ -1,0 +1,14 @@
+1 crimson
+2 orange
+3 blue
+4 cyan
+5 yellow
+6 charcoal
+7 khaki
+8 coral
+9 silver
+10 fuchsia
+11 purple
+12
+12 brown
+13 red
